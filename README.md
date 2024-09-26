@@ -42,7 +42,6 @@ Fun fact **don't die before finishing the one piece anime**
 
 <div align="center"
  <h2>🐍 My Contributions" 🐍</h2>
- <img alt= "snake eating my contributions" src=https://raw.githubusercontent.com/salesp07/output/github-contributions-grid-snake.svg />
  
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
