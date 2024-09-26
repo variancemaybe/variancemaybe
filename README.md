@@ -1,15 +1,38 @@
-<h1 align="center">Hi 👋, I'm variance</h1>
-<h3 align="center">A specialist Bug Hunter</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true"/>
+<hr/>
+<h1 align="center">
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+variance+%F0%9F%91%8B;a+front+end+developer" />
+ </a>
+</h1>
 
-- 🔭 I’m currently working on [Bug Hunter](Bug Bounty program)
+<div align="center">
 
-- ⚡ Fun fact **Finding bug with bounty tho HAHA**
+  <b>A passionate front end developer from indonesia<b/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vriance.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vriance.s" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/variancemaybe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="variancemaybe" height="30" width="40" /></a>
-</p>
+  <b>🔭 I’m currently learning backend<b/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Fun fact **don't die before finishing the one piece anime**
+</div>
+
+
+
+<div align="center">
+  <a href="https://github.com/variancemaybe">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+  </a>
+  <a href="https://www.instagram.com/vriance.s/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  </a>  
+</div>
+
+<hr/>
+
+
+<h3 align="center">HERE SOME OF MY SKILLS</h3>
+<br/>
+<h4 align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,java,js,react,ts"/>
+    </a>
+</h4>
