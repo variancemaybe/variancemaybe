@@ -36,3 +36,13 @@ Fun fact **don't die before finishing the one piece anime**
       <img src="https://skillicons.dev/icons?i=html,css,java,js,react,ts"/>
     </a>
 </h4>
+
+<br/>
+<hr/>
+
+<div align="center"
+ <h2>🐍 My Contributions" 🐍</h2>
+ <img alt= "snake eating my contributions" src=https://raw.githubusercontent.com/salesp07/output/github-contributions-grid-snake.svg />
+ 
+ <br/><br/><br/>
+</div>
