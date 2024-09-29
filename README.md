@@ -12,7 +12,7 @@
 
   <b>🔭 I’m currently learning backend<b/>
 
-Fun fact **don't die before finishing the one piece anime**
+Fun fact **don't die before finish watching one piece anime**
 </div>
 
 
