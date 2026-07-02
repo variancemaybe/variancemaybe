@@ -8,9 +8,9 @@
 
 <div align="center">
 
-  <b>A passionate front end developer from indonesia<b/>
+  <b>A CyberSecurity from indonesia<b/>
 
-  <b>🔭 I’m currently learning backend<b/>
+  <b>🔭 I’m currently learning cloud w operation system linux ubuntu for cybersecurity<b/>
 
 </div>
 
@@ -32,7 +32,7 @@
 <br/>
 <h4 align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,java,js,react,ts"/>
+      <img src="https://skillicons.dev/icons?i=python, java, sql, gcp, java, redhat, linux"/>
     </a>
 </h4>
 
