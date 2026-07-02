@@ -32,7 +32,7 @@
 <br/>
 <h4 align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python, java, sql, gcp, java, redhat, linux"/>
+      <img src="https://skillicons.dev/icons?i=python,java,sql,gcp,java,redhat,linux"/>
     </a>
 </h4>
 
